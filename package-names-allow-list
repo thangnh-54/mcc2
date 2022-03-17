@@ -1,0 +1,7 @@
+org.springframework.boot.loader.jar
+org.springframework.boot.loader.archive
+org.springframework.boot.loader
+org.springframework.boot.loader.data
+org.springframework.boot.loader.util
+org.springframework.boot.loader.jarmode
+BOOT-INF.classes.vn.easycredit.lib
